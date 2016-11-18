@@ -93,7 +93,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
  
  
- ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9-4.PNG?raw=true)
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%99.PNG?raw=true)
  
  ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%99.PNG?raw=true๗
  
