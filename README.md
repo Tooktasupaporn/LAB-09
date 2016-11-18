@@ -60,6 +60,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
  
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9-3.PNG?raw=true)
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
  <p align="center">
@@ -75,7 +76,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
-
+![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9-4.PNG?raw=true)
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
@@ -85,8 +86,21 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
- 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9-2.PNG?raw=true)
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+ 
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9-4.PNG?raw=true)
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%99.PNG?raw=true๗
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20iphone.PNG?raw=true)
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20pig.PNG?raw=true)
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20%E0%B8%88%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A1.PNG?raw=true)
+ 
+ ![](https://github.com/Tooktasupaporn/LAB-09/blob/master/imgs/lab9%20%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9.PNG?raw=true)
